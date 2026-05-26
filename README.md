@@ -1,9 +1,4 @@
-### Hi there 👋
-- 🌱 I’m currently learning ReactJS
-- 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/devashish2531/)
-- 😄 I am an Undergrad Student at Delhi Technological University majoring in Computer Science.
 
-<!--
 **devashish2531/devashish2531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
